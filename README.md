@@ -10,4 +10,4 @@ Willy melhor professor, vai tomando e o goat
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
 -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Input%20text&section=header&reversal=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Goat&section=header&reversal=false"/>
