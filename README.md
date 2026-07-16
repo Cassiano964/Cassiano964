@@ -15,6 +15,5 @@ Willy melhor professor, vai tomando e o goat
 -->
  
 
-<img align="center" alt="Pikachu" src="https://br.pinterest.com/pin/3588874698308490.gif" width="600" />
-
+<img align="center" alt="Pikachu" src="https://pinimg.com" width="600" />
 
