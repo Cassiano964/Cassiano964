@@ -16,10 +16,10 @@ Willy melhor professor, vai tomando e o goat
   <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
     <img src="https://shields.io" alt="LinkedIn Badge">
   </a>
-  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/scassiano7?igsh=MWhrZGk1amhkZmluaA==" target="_blank">
     <img src="https://shields.io" alt="Instagram Badge">
   </a>
-  <a href="SEU_LINK_DO_YOUTUBE" target="_blank">
+  <a href="https://youtube.com/@scassiano7?si=wZDsALSpBVcAQq6C" target="_blank">
     <img src="https://shields.io" alt="YouTube Badge">
   </a>
 </div>
