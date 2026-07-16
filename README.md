@@ -13,7 +13,7 @@ Willy melhor professor, vai tomando e o goat
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
 - <div align="center">
-  <a href="(https://www.linkedin.com/in/cassiano-santos-664000399 )" target="_blank">
+  <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
     <img src="https://shields.io" alt="LinkedIn Badge">
   </a>
   <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
