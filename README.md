@@ -5,16 +5,16 @@
   
 # Aula-Web
 Willy melhor professor, vai tomando e o goat
-<! --
+
 - 🌱 Atualmente estou aprendendo html, css e java.
 - 👯 Estou procurando desenvolver a minha carreira profissional
 - 💬 Pergunte-me sobre programçao
 - 📫 Como entrar em contato comigo: 49 99952-0842
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
--->
+
  
-
-<img align="center" alt="Pikachu" src="https://pinimg.com" width="600" />
-
+<p align="center">
+  <img src="https://pinimg.com" alt="Pikachu" width="600" />
+</p>
 
