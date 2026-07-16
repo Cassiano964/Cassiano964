@@ -15,7 +15,7 @@ Willy melhor professor, vai tomando e o goat
 -->
  
 
-<img align="center" alt="Mashle" src="[Mashle.htm](https://github.com/user-attachments/files/30085796/Mashle.htm)
+<img align="center" alt="Mashle" src="(https://github.com/user-attachments/files/30085796/Mashle.htm)
 " width="600" />
 
 
