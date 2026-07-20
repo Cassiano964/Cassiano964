@@ -3,14 +3,14 @@
 
 </div>
 
-<br>
+
   - 🌱 Atualmente estou aprendendo html, css e java.
   - 👯 Estou procurando desenvolver a minha carreira profissional
   - 💬 Pergunte-me sobre programçao
   - 📫 Como entrar em contato comigo: 49 99952-0842
   - 😄 Pronomes: ele/dele
   - ⚡ Curiosidade: gosto de estudar programaçao e jogar
-<br>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cassiano964/Cassiano964/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
