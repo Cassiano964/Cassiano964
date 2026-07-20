@@ -1,14 +1,6 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=243&color=gradient&text=I%20am%20Cassiano&desc=goat"/>
-{
-    "idx": 0,
-    "color": {
-      "0": "F8B195",
-      "50": "F67280",
-      "100": "C06C84"
-    }
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=243&color=0:FFC914,50:E2C928,100:FFB60AB&text=I%20am%20Cassiano&desc=goat"/>
 
-  
 
 
 
