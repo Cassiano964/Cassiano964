@@ -12,7 +12,7 @@
 - 📫 Como entrar em contato comigo: 49 99952-0842
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
-- <div align="center">
+ <div align="center">
   <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
     <img width="40" height="40" alt="Linkedin" src="https://github.com/user-attachments/assets/3bad4f38-6313-4cc5-9dff-68936b72284c" />
 
