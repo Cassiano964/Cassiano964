@@ -13,7 +13,7 @@
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
 
 
-<p align="center">
+<p align="auto">
   <img src="https://github.com/Cassiano964/Cassiano964/blob/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
 </p>
 
