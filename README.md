@@ -1,4 +1,4 @@
-
+<div align="">
    <img src="https://capsule-render.vercel.app/api?type=rounded&height=243&color=0:FFC914,50:E2C928,100:FFB60AB&text=I%20am%20Cassiano&desc=goat"/>
 
 
@@ -11,7 +11,7 @@
   - 📫 Como entrar em contato comigo: 49 99952-0842
   - 😄 Pronomes: ele/dele
   - ⚡ Curiosidade: gosto de estudar programaçao e jogar
-
+</div>
 
 <p align="auto">
   <img src="https://raw.githubusercontent.com/Cassiano964/Cassiano964/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
