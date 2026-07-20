@@ -24,11 +24,11 @@
 
   </a>
   <a href="https://www.instagram.com/scassiano7?igsh=MWhrZGk1amhkZmluaA==" target="_blank">
-    <img width="50" height="50" alt="Instagram" src="https://cdn.simpleicons.org/youtube/FF0000" />
+    <img width="50" height="50" alt="Instagram" src="https://cdn.simpleicons.org/instagram/#FF0069" />
 
   </a>
   <a href="https://youtube.com/@scassiano7?si=wZDsALSpBVcAQq6C" target="_blank">
-    <img width="50" height="50" alt="Youtube" src="https://github.com/user-attachments/assets/8a0c9c81-0e71-4f53-8808-25a0ff187292" />
+    <img width="50" height="50" alt="Youtube" src="https://cdn.simpleicons.org/youtube/FF0000" />
 
   </a>
 </div>
