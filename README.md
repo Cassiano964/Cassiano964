@@ -13,6 +13,10 @@
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
 
 
+<p align="center">
+  <img src="https://github.com/Cassiano964/Cassiano964/blob/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
+</p>
+
  <div align="center">
   <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
     <img width="50" height="50" alt="Linkedin" src="https://github.com/user-attachments/assets/3bad4f38-6313-4cc5-9dff-68936b72284c" />
@@ -29,7 +33,4 @@
 </div>
 
  
-<p align="center">
-  <img src="https://github.com/Cassiano964/Cassiano964/blob/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
-</p>
 
