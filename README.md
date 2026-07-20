@@ -14,11 +14,11 @@
 
 
 <p align="auto">
-  <img src="https://github.com/Cassiano964/Cassiano964/blob/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
+  <img src="https://raw.githubusercontent.com/Cassiano964/Cassiano964/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
 </p>
 
 
- <div align="auto">
+ <div align="">
   <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
     <img width="50" height="50" alt="image" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
 
