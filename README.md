@@ -6,12 +6,15 @@
 
 
 
+
 - 🌱 Atualmente estou aprendendo html, css e java.
 - 👯 Estou procurando desenvolver a minha carreira profissional
 - 💬 Pergunte-me sobre programçao
 - 📫 Como entrar em contato comigo: 49 99952-0842
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de estudar programaçao e jogar
+
+
  <div align="center">
   <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
     <img width="50" height="50" alt="Linkedin" src="https://github.com/user-attachments/assets/3bad4f38-6313-4cc5-9dff-68936b72284c" />
