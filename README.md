@@ -30,6 +30,6 @@
 
  
 <p align="center">
-  <img src="https://v1.pinimg.com/videos/iht/expMp4/89/eb/b0/89ebb02273c627d50a1f3af9fe3eba64_720w.mp4" alt="Pikachu" width="600" />
+  <img src="https://github.com/Cassiano964/Cassiano964/blob/cd2a38faf7813e59314beefff0092753a845b1a3/Adobe%20Express%20-%20pikachu.gif" />
 </p>
 
