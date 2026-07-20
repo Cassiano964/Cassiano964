@@ -24,7 +24,7 @@
 
   </a>
   <a href="https://www.instagram.com/scassiano7?igsh=MWhrZGk1amhkZmluaA==" target="_blank">
-    <img width="50" height="50" alt="Instagram" src="https://cdn.simpleicons.org/instagram/#FF0069" />
+    <img width="50" height="50" alt="Instagram" src="https://cdn.simpleicons.org/instagram/FF0069" />
 
   </a>
   <a href="https://youtube.com/@scassiano7?si=wZDsALSpBVcAQq6C" target="_blank">
