@@ -3,8 +3,6 @@
 
 
 
-
-
   - 🌱 Atualmente estou aprendendo html, css e java.
   - 👯 Estou procurando desenvolver a minha carreira profissional
   - 💬 Pergunte-me sobre programçao
