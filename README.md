@@ -20,7 +20,7 @@
 
  <div align="center">
   <a href="https://www.linkedin.com/in/cassiano-santos-664000399" target="_blank">
-    <img width="50" height="50" alt="Linkedin" src="https://github.com/user-attachments/assets/3bad4f38-6313-4cc5-9dff-68936b72284c" />
+    <img width="50" height="50" alt="Linkedin" src="https://cdn.simpleicons.org/linkedin/FF0069" />
 
   </a>
   <a href="https://www.instagram.com/scassiano7?igsh=MWhrZGk1amhkZmluaA==" target="_blank">
