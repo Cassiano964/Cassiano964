@@ -5,12 +5,12 @@
 
 
 
-- 🌱 Atualmente estou aprendendo html, css e java.
-- 👯 Estou procurando desenvolver a minha carreira profissional
-- 💬 Pergunte-me sobre programçao
-- 📫 Como entrar em contato comigo: 49 99952-0842
-- 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: gosto de estudar programaçao e jogar
+  - 🌱 Atualmente estou aprendendo html, css e java.
+  - 👯 Estou procurando desenvolver a minha carreira profissional
+  - 💬 Pergunte-me sobre programçao
+  - 📫 Como entrar em contato comigo: 49 99952-0842
+  - 😄 Pronomes: ele/dele
+  - ⚡ Curiosidade: gosto de estudar programaçao e jogar
 
 
 <p align="auto">
