@@ -31,6 +31,8 @@
     <img width="50" height="50" alt="Youtube" src="https://cdn.simpleicons.org/youtube/FF0000" />
 
   </a>
+  <a href="https://t.me/Cassiano Santos." target="_blank">
+    <img width="50" height="50" alt="image" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
 </div>
 
  
